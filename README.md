@@ -1,5 +1,5 @@
 # C-language
 
-## Specifications
+Specifications
 
-## Table of contents
+Table of contents

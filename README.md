@@ -11,4 +11,4 @@ and
 
 ## Table of contents
 
-Processing arrays  [https://github.com/jv80/C-language/blob/master/C/processingArrays.c]
+[Processing arrays](https://github.com/jv80/C-language/blob/master/C/processingArrays.c)

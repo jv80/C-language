@@ -1,5 +1,5 @@
 /*20180531*/
-/**/
+/*This program implement five string functions(without using any of the functionin the standard C library except for isdigit) that process arrays of characteres.*/
 
 #include<stdio.h>
 #include<ctype.h>

@@ -2,7 +2,7 @@
 
 ## Specifications
 
-Scripts and expressions taken from homework, exercises and personal projects.  
+Programs taken from homework, exercises and personal projects.  
 
 All scripts were run in [cygwin](https://www.cygwin.com/)
 

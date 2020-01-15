@@ -1,7 +1,7 @@
 # C-language
 
 ## Specifications
-
+All programs were run in [cygwin](https://www.cygwin.com/)
 
 ### The expression used to compile all the scripts was:
 

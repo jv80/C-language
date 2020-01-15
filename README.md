@@ -5,7 +5,7 @@ All programs were run in [cygwin](https://www.cygwin.com/)
 
 ### The expression used to compile all the scripts was:
 
-**gcc -ansi -W -Wall -Werror -pedantic [my_script.c]**
+**gcc -ansi -W -Wall -Werror -pedantic [my_script.c]** /n
 and
 **./a**
 

@@ -14,4 +14,4 @@ All scripts were run in [cygwin](https://www.cygwin.com/)
 
 + [Processing arrays](https://github.com/jv80/C-language/blob/master/C/processingArrays.c)    
 + [Processing arrays of characters](https://github.com/jv80/C-language/blob/master/C/processingArraysOfCharacters.c)
-+ [Simple program to format text](https://github.com/jv80/C-language/blob/master/C/processingArraysOfCharacters.c)
++ [A simple program to format text](https://github.com/jv80/C-language/blob/master/C/processingArraysOfCharacters.c)
